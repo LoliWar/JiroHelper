@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\JiroHelper.dll
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\JiroHelper.pdb
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.csproj.CopyComplete
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.dll
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.pdb
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\RestSharp.dll
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\RestSharp.xml
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.csproj.CoreCompileInputs.cache
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\JiroHelper.dll
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\JiroHelper.pdb
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\RestSharp.dll
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\bin\Debug\RestSharp.xml
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.csproj.AssemblyReference.cache
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.csproj.CoreCompileInputs.cache
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.dll
+D:\Code\Job\Code Main\Dll Project\JiroHelper\JiroHelper\obj\Debug\JiroHelper.pdb
